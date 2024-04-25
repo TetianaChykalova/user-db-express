@@ -8,3 +8,5 @@ Educational project for learning SSR using the example of connecting React and E
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3"
+
+    "webpack": "^5.91.0",
